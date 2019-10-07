@@ -52,6 +52,9 @@
             <li class="nav-item">
               <a class="nav-link active" href="./sobre.php">Sobre</a>
             </li>
+            <li class="nav-item">
+              <a class="nav-link" href="./experience.php">Experience</a>
+            </li>
           </ul>
           <form class="form-inline m-0">
             <?php
@@ -88,23 +91,6 @@
             <p class="">
               Somos berço de diversas dissertações de mestrado e teses de doutorado - além de mais de uma dezena de registros no INPI. E nossa história está apenas começando.
             </p>
-
-            <!--<div class="col-md-12">
-              <div class="col-md-12">
-                <img class="img-fluid d-block rounded-circle mx-auto" src="imagens/cezar.jpg">
-              </div>
-              <h2 class="py-2">
-                <b>Cezar Augusto Crummenauer</b>
-              </h2>
-              <h5>Técnico em <b>Eletrônica</b><br>Técnico em <b>Informática</b><br>Acadêmico do Curso Técnico em <b>Automação Industrial</b><br>Acadêmico do Curso Superior em <b>Sistemas para Internet</b><br>Empresário Júnior na <b>CompAct Jr da UFSM</b></h5>
-              <h2 class="text-primary">Um pouco sobre minhas <b>atividades acadêmicas</b>...</h2>
-              <h5>Continue rolando esta página para <b>conhecer melhor minhas atividades acadêmicas</b> ou clique e um dos botões abaixo para ver outras informações sobre mim...</h5>
-              <div class="text-center justify-content-center" id="navbar2SupportedContent">
-                <a class="btn ml-2 text-white btn-secondary m-2" href="projetos.html">Projetos</a>
-                <a class="btn text-black btn-outline-secondary m-2" href="index.html">Atividades acadêmicas</a>
-                <a class="btn ml-2 text-white btn-secondary m-2" href="hobbies.html">Hobbies</a>
-              </div>
-            </div>-->
 
             <p class="">
               O grupo de Pesquisa NIGHTWIND é registrado no CNPq e certificado pela instituição.
