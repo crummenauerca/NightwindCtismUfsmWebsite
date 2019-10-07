@@ -15,7 +15,6 @@ error_reporting(0);
 </head>
 
 <body>
-
   <div id="barra-brasil">
     <div id="wrapper-barra-brasil">
       <div class="brasil-flag"><a href="http://brasil.gov.br" class="link-barra">Brasil</a></div><span class="acesso-info"><a href="http://www.servicos.gov.br/?pk_campaign=barrabrasil" class="link-barra" id="barra-brasil-orgao">Serviços</a></span>
@@ -108,11 +107,6 @@ error_reporting(0);
   <div class="py-1" style="margin-bottom: 10px">
     <div class="container">
       <div class="row">
-        <div class="col-md-12 text-center">
-          <img style="padding: 10px;" class="img-fluid d-block mb-4 w-80" src="./imagens/nightwind.jpg">
-        </div>
-      </div>
-      <div class="row">
         <div class="col-md-12" style="text-align: justify;">
           <p class="">
             A Nightwind Experience é mais uma das iniciativas criativas e inovadoras desenvolvidas pela equipe @ctism_nightwind.
@@ -157,7 +151,7 @@ error_reporting(0);
           <h4>Feira de protótipos, como parte da feira e ciências do CTISM</h4>
           <div class="row">
             <div class="col-md-12 text-center">
-              <img style="padding: 2px; max-height: 400px" class="img-fluid d-block mb-4 w-80" src="./imagens/experience/feira.png">
+              <img style="padding: 2px; max-width: 1080px" class="img-fluid" src="./imagens/experience/feira.png">
             </div>
           </div>
 

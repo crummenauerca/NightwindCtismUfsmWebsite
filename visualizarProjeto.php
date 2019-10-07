@@ -51,7 +51,10 @@
             ?>
             <li class="nav-item">
               <a class="nav-link" href="./sobre.php">Sobre</a>
-            </li>         
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="./experience.php">Experience</a>
+            </li>        
           </ul>
           <form class="form-inline m-0">
             <?php
