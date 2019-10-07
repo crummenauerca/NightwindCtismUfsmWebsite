@@ -134,6 +134,13 @@ error_reporting(0);
 
           <h4>Oficinas de Arduino</h4>
           <p>Nas oficinas de Arduino da Nightwind Experience, serão utilizadas abordagens inovadoras para o ensino de arduino, como a Nightwind shield e a nightwind card. </p>
+          <div class="row">
+            <div class="col-md-12 text-center">
+              <img style="padding: 2px; max-height: 360px" class="img-fluid" src="./imagens/experience/nwshield1.png">
+              <img style="padding: 2px; max-height: 360px" class="img-fluid" src="./imagens/experience/nwshield3.jpg">
+              <img style="padding: 2px; max-width: 1080px" class="img-fluid" src="./imagens/experience/nwshield2.png">
+            </div>
+          </div>
 
           <h4>Curso de Calculadora HP</h4>
           <p>Promovido pelo capítulo da IEEE</p>
@@ -148,6 +155,11 @@ error_reporting(0);
           <p>Nossa equipe participará com 6 trabalhos: (incluir o fac-símile dos cartazes)</p>
 
           <h4>Feira de protótipos, como parte da feira e ciências do CTISM</h4>
+          <div class="row">
+            <div class="col-md-12 text-center">
+              <img style="padding: 2px; max-height: 400px" class="img-fluid d-block mb-4 w-80" src="./imagens/experience/feira.png">
+            </div>
+          </div>
 
           <h4>Live com nossos embaixadores na europa e na américa do norte.</h4>
           <p>Siga <a href="https://www.youtube.com/channel/UCaeeuoaZYWZ3dwi07yhD2AA/">nosso canal no YouTube</a>. Vamos colocar a live no canal do youtube da equipe.</p>
