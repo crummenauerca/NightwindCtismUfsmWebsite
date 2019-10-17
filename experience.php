@@ -115,7 +115,7 @@ error_reporting(0);
             Oficinas, mini-cursos, feira de protótipos, lives com nossos embaixadores na América do Norte e na Europa, e participação em competições internacionais são algumas das amostras de nosso DNA que estarão sendo apresentadas.
           </p>
           <p class="">
-            Fique atento ao perfil oficial da Equipe Nightwind do CTISM no Instagram (<a href="https://www.instagram.com/ctism_nightwind/" target="_blank">instagram.com/ctism_nightwind</a>) e saiba como participar da #nightwindexperience.
+            Fique atento ao perfil oficial da Equipe Nightwind do CTISM no Instagram (<a href="https://www.instagram.com/ctism_nightwind/" target="_blank">instagram.com/ctism_nightwind</a>) e saiba mais :)
           </p>
 
           <h4>IEEE Extreme</h4>
@@ -127,36 +127,70 @@ error_reporting(0);
           </p>
 
           <h4>Oficinas de Arduino</h4>
-          <p>Nas oficinas de Arduino da Nightwind Experience, serão utilizadas abordagens inovadoras para o ensino de arduino, como a Nightwind shield e a nightwind card. </p>
-          <div class="row">
-            <div class="col-md-12 text-center">
-              <img style="padding: 2px; max-height: 360px" class="img-fluid" src="./imagens/experience/nwshield1.png">
-              <img style="padding: 2px; max-height: 360px" class="img-fluid" src="./imagens/experience/nwshield3.jpg">
-              <img style="padding: 2px; max-width: 1080px" class="img-fluid" src="./imagens/experience/nwshield2.png">
-            </div>
-          </div>
-
-          <h4>Curso de Calculadora HP</h4>
-          <p>Promovido pelo capítulo da IEEE</p>
-
-          <h4>Curso de Matlab</h4>
-          <p>Promovido pelo capítulo da IEEE</p>
-
-          <h4>Palestra sobre a IEEE</h4>
-          <p>Promovido pelo capítulo da IEEE</p>
-
-          <h4>Participação na JAI</h4>
-          <p>Nossa equipe participará com 6 trabalhos: (incluir o fac-símile dos cartazes)</p>
-
-          <h4>Feira de protótipos, como parte da feira e ciências do CTISM</h4>
-          <div class="row">
-            <div class="col-md-12 text-center">
-              <img style="padding: 2px; max-width: 1080px" class="img-fluid" src="./imagens/experience/feira.png">
-            </div>
-          </div>
+          <p>Nas oficinas de Arduino da Nightwind Experience, serão utilizadas abordagens inovadoras para o ensino de arduino, como a Nightwind Shield e a Nightwind Card. </p>
 
           <h4>Live com nossos embaixadores na europa e na américa do norte.</h4>
           <p>Siga <a href="https://www.youtube.com/channel/UCaeeuoaZYWZ3dwi07yhD2AA/">nosso canal no YouTube</a>. Vamos colocar a live no canal do youtube da equipe.</p>
+          <div class="row">
+            <div class="col-md-12 text-center">
+              <img style="padding: 2px; max-height: 440px" class="img-fluid" src="./imagens/experience/nwshield3.jpg">
+              <img style="padding: 2px; max-height: 440px" class="img-fluid" src="./imagens/experience/nwshield2.png">
+            </div>
+          </div>
+          <div class="col-md-12">
+          <h4 style="padding-top: 25px" class="text-primary">Conteúdos do Nightwind Experience (inscrições abaixo):</h4>
+        </div>
+          <div class="row" style="max-height: 80%">
+            <div class="col-md-12">
+              <div class="carousel slide" data-ride="carousel" id="carousel">
+                <div class="carousel-inner">
+                  <div class="carousel-item active">
+                    <img class="d-block img-fluid" style="max-height: 540px" src="./imagens/experience/ieee/A.png">
+                  </div>
+                  <div class="carousel-item">
+                    <img class="d-block img-fluid" style="max-height: 540px" src="./imagens/experience/ieee/B.png">
+                  </div>
+                  <div class="carousel-item">
+                    <img class="d-block img-fluid" style="max-height: 540px" src="./imagens/experience/ieee/C.png">
+                  </div>
+                  <div class="carousel-item">
+                    <img class="d-block img-fluid" style="max-height: 540px" src="./imagens/experience/ieee/D.png">
+                  </div>
+
+                  <div class="carousel-item">
+                    <img class="d-block img-fluid" style="max-height: 540px" src="./imagens/experience/nw/A.png">
+                  </div>
+                  <div class="carousel-item">
+                    <img class="d-block img-fluid" style="max-height: 540px" src="./imagens/experience/nw/B.png">
+                  </div>
+                  <div class="carousel-item">
+                    <img class="d-block img-fluid" style="max-height: 540px" src="./imagens/experience/nw/C.png">
+                  </div>
+                  <div class="carousel-item">
+                    <img class="d-block img-fluid" style="max-height: 540px" src="./imagens/experience/nw/D.png">
+                  </div>
+                </div>
+                <a class="carousel-control-prev bg-dark" href="#carousel" role="button" data-slide="prev">
+                  <span class="carousel-control-prev-icon"></span>
+                  <span class="sr-only">Previous</span>
+                </a>
+                <a class="carousel-control-next bg-dark" href="#carousel" role="button" data-slide="next">
+                  <span class="carousel-control-next-icon"></span>
+                  <span class="sr-only">Next</span>
+                </a>
+              </div>
+            </div>
+          </div>
+          <p style="padding-top: 10px">
+          Para ex-alunos do CTISM: <a href="https://forms.gle/uqPUrfLZ1Fj22vD59" target="_blank">Inscrições e informações sobre Oficina de Arduino da NIGHTWIND EXPERIENCE</a> </br>
+          Para alunos da UFSM: <a href="https://forms.gle/LU2qUkSbmqBTFx758" target="_blank">Inscrições e informações sobre os mini-cursos da NIGHTWIND EXPERIENCE</a>
+          </p>
+
+          <div class="row" style="padding-bottom: 20px">
+            <div class="col-md-12 text-center">
+              <img style="padding: 2px; max-width: 90%" class="img-fluid" src="./imagens/experience/feira.png">
+            </div>
+          </div>
         </div>
       </div>
     </div>
