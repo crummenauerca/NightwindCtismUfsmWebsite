@@ -112,7 +112,7 @@ error_reporting(0);
             A Nightwind Experience é mais uma das iniciativas criativas e inovadoras desenvolvidas pela equipe @ctism_nightwind.
           </p>
           <p class="">
-            Oficinas, mini-cursos, feira de protótipos, lives com nossos embaixadores na América do Norte e na Europa, e participação em competições internacionais são algumas das amostras de nosso DNA que estarão sendo apresentadas.
+            Oficinas, mini-cursos, feira de protótipos, lives com nossos embaixadores na América do Norte e na Europa, e participação em competições internacionais são algumas das amostras de nosso DNA que estarão sendo apresentadas ao longo do mês de outubro de 2019.
           </p>
           <p class="">
             Fique atento ao perfil oficial da Equipe Nightwind do CTISM no Instagram (<a href="https://www.instagram.com/ctism_nightwind/" target="_blank">instagram.com/ctism_nightwind</a>) e saiba mais :)
@@ -129,17 +129,23 @@ error_reporting(0);
           <h4>Oficinas de Arduino</h4>
           <p>Nas oficinas de Arduino da Nightwind Experience, serão utilizadas abordagens inovadoras para o ensino de arduino, como a Nightwind Shield e a Nightwind Card. </p>
 
-          <h4>Live com nossos embaixadores na europa e na américa do norte.</h4>
-          <p>Siga <a href="https://www.youtube.com/channel/UCaeeuoaZYWZ3dwi07yhD2AA/">nosso canal no YouTube</a>. Vamos colocar a live no canal do youtube da equipe.</p>
           <div class="row">
             <div class="col-md-12 text-center">
               <img style="padding: 2px; max-height: 440px" class="img-fluid" src="./imagens/experience/nwshield3.jpg">
               <img style="padding: 2px; max-height: 440px" class="img-fluid" src="./imagens/experience/nwshield2.png">
             </div>
           </div>
+
+          <h4>Live com nossos embaixadores na Europa e América do Norte.</h4>
+          <p>Siga <a href="https://www.youtube.com/channel/UCaeeuoaZYWZ3dwi07yhD2AA/">nosso canal no YouTube</a>. Vamos colocar a live no canal do youtube da equipe.</p>
+
+          <h4>Participação na 34ª Jornada Acadêmica Integrada da UFSM</h4>
+          <div class="col-md-12 text-center">
+            <img style="max-height: 800px" class="img-fluid" src="./imagens/experience/nw/D.png">
+          </div>
           <div class="col-md-12">
-          <h4 style="padding-top: 25px" class="text-primary">Conteúdos do Nightwind Experience (inscrições abaixo):</h4>
-        </div>
+            <h4 style="padding-top: 25px" class="text-primary">Conteúdos do Nightwind Experience (inscrições abaixo):</h4>
+          </div>
           <div class="row" style="max-height: 80%">
             <div class="col-md-12">
               <div class="carousel slide" data-ride="carousel" id="carousel">
@@ -156,7 +162,6 @@ error_reporting(0);
                   <div class="carousel-item">
                     <img class="d-block img-fluid" style="max-height: 540px" src="./imagens/experience/ieee/D.png">
                   </div>
-
                   <div class="carousel-item">
                     <img class="d-block img-fluid" style="max-height: 540px" src="./imagens/experience/nw/A.png">
                   </div>
@@ -165,9 +170,6 @@ error_reporting(0);
                   </div>
                   <div class="carousel-item">
                     <img class="d-block img-fluid" style="max-height: 540px" src="./imagens/experience/nw/C.png">
-                  </div>
-                  <div class="carousel-item">
-                    <img class="d-block img-fluid" style="max-height: 540px" src="./imagens/experience/nw/D.png">
                   </div>
                 </div>
                 <a class="carousel-control-prev bg-dark" href="#carousel" role="button" data-slide="prev">
@@ -182,9 +184,11 @@ error_reporting(0);
             </div>
           </div>
           <p style="padding-top: 10px">
-          Para ex-alunos do CTISM: <a href="https://forms.gle/uqPUrfLZ1Fj22vD59" target="_blank">Inscrições e informações sobre Oficina de Arduino da NIGHTWIND EXPERIENCE</a> </br>
-          Para alunos da UFSM: <a href="https://forms.gle/LU2qUkSbmqBTFx758" target="_blank">Inscrições e informações sobre os mini-cursos da NIGHTWIND EXPERIENCE</a>
+            Para ex-alunos do CTISM: <a href="https://forms.gle/uqPUrfLZ1Fj22vD59" target="_blank">Inscrições e informações sobre Oficina de Arduino da NIGHTWIND EXPERIENCE</a> </br>
+            Para alunos da UFSM: <a href="https://forms.gle/LU2qUkSbmqBTFx758" target="_blank">Inscrições e informações sobre os mini-cursos da NIGHTWIND EXPERIENCE</a>
           </p>
+
+          <h4 style="padding-top: 25px" class="text-primary text-center">Feira de Protótipos da Equipe Nightwind, como parte da Feira de Ciências e Cultura do CTISM</h4>
 
           <div class="row" style="padding-bottom: 20px">
             <div class="col-md-12 text-center">
